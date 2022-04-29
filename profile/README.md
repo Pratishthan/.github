@@ -27,8 +27,10 @@
   The amalgamation of the left and the right brain functions is what helps us help our clients.
 
 
+![life-pratishthan-family (1)](https://user-images.githubusercontent.com/88770292/165887391-7e2074d2-99cf-4982-85c5-846348138d2f.png)
+
+
 ---
-
-[Contact Us](https://www.pratishthanventures.com/contact/)
-
-  
+<p align="center">
+  <b> <a href="https://www.pratishthanventures.com/contact/"> Contact Us </a> </b>
+ </p>
