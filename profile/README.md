@@ -17,7 +17,7 @@
 
   The family has grown over the years and they come from all over India and call Bangalore their home. Nestled in the
   calm
-  environs of a tree-covered office space, we have been putting our experience in fintech, enterprise solutions,
+  environs of tree-covered office space, we have been putting our experience in fintech, enterprise solutions,
   technology frameworks and emerging technologies to create an ecosystem that helps the mind thrive and creates a
   fertile
   ground for creative solutions.
