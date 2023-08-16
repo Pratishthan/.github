@@ -4,10 +4,10 @@
 </a>
 
 
-# What is Pratishthan?
+# Pratishthan Software Ventures Pvt. Ltd.
 
-  Pratishthan is an idea conceived by the Founder, Sharad Hegde in 2014.
-  An idea that was a result of his many years of experience creating world-class service frameworks, solutions and
+  Pratishthan is an idea conceived by the Founder, **Sharad Hegde in 2014**.
+  This idea resulted from his many years of experience creating world-class service frameworks, solutions, and
   platforms. It was envisaged to be a firm that provides world-class technology solutions to small and medium
   enterprises
   (SMEs), startups and larger enterprises. The one thing that would go on to differentiate Pratishthan from others was
@@ -22,7 +22,7 @@
   fertile
   ground for creative solutions.
 
-  Our people are our biggest assets and they bring with them not just their technical prowess, but also multiple
+  Our people are our most significant assets and they bring with them not just their technical prowess, but also multiple
   talents.
   The amalgamation of the left and the right brain functions is what helps us help our clients.
 
@@ -51,4 +51,4 @@
 
 <p align="center">
   <b> <a href="https://www.pratishthanventures.com/contact/"> Contact Us </a> </b>
- </p>
+</p>
