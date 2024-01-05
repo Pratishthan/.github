@@ -1,5 +1,5 @@
 <a href="https://www.pratishthanventures.com">
-  <img src="https://www.pratishthanventures.com/wp-content/uploads/2021/09/wl-01.png"
+  <img src="https://www.pratishthanventures.com/wp-content/uploads/2023/11/wl-01.png"
     alt="Pratishthan Software Ventures Pvt. Ltd." />
 </a>
 
